@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sayak-food-react-app/static/css/main.bea2b5dd.css",
+    "main.js": "/sayak-food-react-app/static/js/main.66ace14f.js",
+    "index.html": "/sayak-food-react-app/index.html",
+    "main.bea2b5dd.css.map": "/sayak-food-react-app/static/css/main.bea2b5dd.css.map",
+    "main.66ace14f.js.map": "/sayak-food-react-app/static/js/main.66ace14f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea2b5dd.css",
+    "static/js/main.66ace14f.js"
+  ]
+}
